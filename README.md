@@ -227,9 +227,10 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MagicPrinceDev.MagicPrinceDev&left_color=aqua&right_color=azure"  />
-</div>
+</div> -->
 
 ###
 
